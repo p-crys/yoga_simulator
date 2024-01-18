@@ -1,0 +1,290 @@
+
+[
+    {
+      "type": "feet",
+      "flag": "good",
+      "timestamp": 1000,
+      "pos_x": 40,
+      "pos_y": 0,
+      "priority": "1",
+      "note": "feet in resting",
+      "clock" : false,
+      "danger" : false
+    },
+    {
+        "type": "buttocks",
+        "flag": "good",
+        "timestamp": 1000,
+        "pos_x": 35,
+        "pos_y": 20,
+        "priority": "2",
+        "note" : "buttocks in resting",
+        "clock" : false,
+        "danger" : false
+    },
+    {
+        "type": "spine",
+        "flag": "good",
+        "timestamp": 1000,
+        "pos_x": 25,
+        "pos_y": 20,
+        "priority": "3",
+        "note" : "spine in resting",
+        "clock" : false,
+        "danger" : false
+    },
+    {
+        "type": "neck",
+        "flag": "good",
+        "timestamp": 1000,
+        "pos_x": 10,
+        "pos_y": 20,
+        "priority": "4",
+        "note" : "neck in resting",
+        "clock" : false,
+        "danger" : false
+    },
+
+    {
+        "type": "hands",
+        "flag": "good",
+        "timestamp": 1000,
+        "pos_x": 10,
+        "pos_y": 0,
+        "priority": "5",
+        "note" : "hands in resting",
+        "clock" : false,
+        "danger" : false
+    },
+
+
+    {
+        "type": "feet",
+        "flag": "good",
+        "timestamp": 5000,
+        "pos_x": 65,
+        "pos_y": 0,
+        "priority": "5",
+        "note": "feet in starting pose",
+        "clock" : true,
+        "danger" : false
+      },
+      {
+          "type": "buttocks",
+          "flag": "good",
+          "timestamp": 5000,
+          "pos_x": 45,
+          "pos_y": 45,
+          "priority": "3",
+          "note" : "buttocks in starting pose",
+          "clock" : true,
+          "danger" : false
+      },
+      {
+          "type": "spine",
+          "flag": "good",
+          "timestamp": 5000,
+          "pos_x": 35,
+          "pos_y": 35,
+          "priority": "2",
+          "note" : "spine in starting pose",
+          "clock" : true,
+          "danger" : false
+      },
+      {
+          "type": "neck",
+          "flag": "good",
+          "timestamp": 5000,
+          "pos_x": 25,
+          "pos_y": 25,
+          "priority": "1",
+          "note" : "neck in start pose",
+          "clock" : true,
+          "danger" : false
+      },
+      {
+          "type": "hands",
+          "flag": "good",
+          "timestamp": 5000,
+          "pos_x": 0,
+          "pos_y": 0,
+          "priority": "4",
+          "note" : "hands in start pose",
+          "clock" : true,
+          "danger" : false
+      },
+
+
+      {
+        "type": "feet",
+        "flag": "good",
+        "timestamp": 5000,
+        "pos_x": 65,
+        "pos_y": 0,
+        "priority": "5",
+        "note": "feet in starting pose",
+        "clock" : false,
+        "danger" : false
+      },
+      {
+        "type": "buttocks",
+        "flag": "good",
+        "timestamp": 6000,
+        "pos_x": 35,
+        "pos_y": 20,
+        "priority": "2",
+        "note" : "buttocks in pause",
+        "clock" : false,
+        "danger" : false
+    },
+    {
+        "type": "spine",
+        "flag": "good",
+        "timestamp": 600,
+        "pos_x": 25,
+        "pos_y": 20,
+        "priority": "3",
+        "note" : "spine in pause",
+        "clock" : false,
+        "danger" : false
+    },
+    {
+        "type": "neck",
+        "flag": "good",
+        "timestamp": 6000,
+        "pos_x": 10,
+        "pos_y": 20,
+        "priority": "4",
+        "note" : "neck in pause",
+        "clock" : false,
+        "danger" : false
+    },
+    {
+        "type": "hands",
+        "flag": "good",
+        "timestamp": 6000,
+        "pos_x": 10,
+        "pos_y": 0,
+        "priority": "5",
+        "note" : "hands in resting",
+        "clock" : false,
+        "danger" : false
+    },
+
+
+    {
+        "type": "feet",
+        "flag": "good",
+        "timestamp": 10000,
+        "pos_x": 65,
+        "pos_y": 0,
+        "priority": "5",
+        "note": "feet in pause pose",
+        "clock" : "true",
+        "danger" : "false"
+      },
+      {
+          "type": "buttocks",
+          "flag": "good",
+          "timestamp": 10000,
+          "pos_x": 45,
+          "pos_y": 45,
+          "priority": "3",
+          "note" : "buttocks in pause pose",
+          "clock" : "true",
+          "danger" : "false"
+          
+      },
+      {
+          "type": "spine",
+          "flag": "good",
+          "timestamp": 10000,
+          "pos_x": 35,
+          "pos_y": 35,
+          "priority": "2",
+          "note" : "spine in pause pose",
+          "clock" : "true",
+          "danger" : "false"
+      },
+      {
+          "type": "neck",
+          "flag": "good",
+          "timestamp": 10000,
+          "pos_x": 25,
+          "pos_y": 25,
+          "priority": "1",
+          "note" : "neck in pause pose",
+          "clock" : "true",
+          "danger" : "false"
+      },
+      {
+          "type": "hands",
+          "flag": "good",
+          "timestamp": 10000,
+          "pos_x": 0,
+          "pos_y": 0,
+          "priority": "4",
+          "note" : "hands in pause pose",
+          "clock" : "true",
+          "danger" : "false"
+      },
+
+
+      {
+        "type": "feet",
+        "flag": "good",
+        "timestamp": 12000,
+        "pos_x": 65,
+        "pos_y": 0,
+        "priority": "5",
+        "note": "feet in finish pose",
+        "clock" : "false",
+        "danger" : "false"
+      },
+      {
+          "type": "buttocks",
+          "flag": "good",
+          "timestamp": 1200,
+          "pos_x": 45,
+          "pos_y": 45,
+          "priority": "3",
+          "note" : "buttocks in finish pose",
+          "clock" : "false",
+          "danger" : "false"
+      },
+      {
+          "type": "spine",
+          "flag": "good",
+          "timestamp": 12000,
+          "pos_x": 35,
+          "pos_y": 35,
+          "priority": "2",
+          "note" : "spine in finish pose",
+          "clock" : "false",
+          "danger" : "false"
+      },
+      {
+          "type": "neck",
+          "flag": "good",
+          "timestamp": 12000,
+          "pos_x": 25,
+          "pos_y": 25,
+          "priority": "1",
+          "note" : "neck in finish pose",
+          "clock" : "false",
+          "danger" : "false"
+      },
+      {
+          "type": "hands",
+          "flag": "good",
+          "timestamp": 12000,
+          "pos_x": 0,
+          "pos_y": 0,
+          "priority": "4",
+          "note" : "hands in finish pose",
+          "clock" : "false",
+          "danger" : "false"
+      }
+  ]
+
+
